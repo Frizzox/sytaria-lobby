@@ -1,0 +1,8 @@
+name: SytariaLobby
+main: fr.akkashi.lobby.Main
+version: 0.1
+depend: [PlaceholderAPI]
+commands:
+  fly:
+  jump:
+  speed:
