@@ -1,8 +1,8 @@
-### SYTARIA-LOBBY
+# SYTARIA-LOBBY
 
 ## Ce plugin est fait pour le serveur Sytaria (play.sytaria.fr).
-# Il n'est pas encore fini et j'essaye de l'update le plus souvent possible.
-# Si vous voulez utiliser/modifier le plugin, veuillez me mentionner dans votre projet !
+### Il n'est pas encore fini et j'essaye de l'update le plus souvent possible.
+### Si vous voulez utiliser/modifier le plugin, veuillez me mentionner dans votre projet !
 
 Il contient les fonctionnalités suivantes :
   - Protection du Spawn
